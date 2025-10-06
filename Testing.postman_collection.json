@@ -1,0 +1,1804 @@
+{
+	"info": {
+		"_postman_id": "5355dd59-4ad2-4267-8006-f891a792c488",
+		"name": "Manual Testing Assigment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47606642",
+		"_collection_link": "https://official-shariarneon-3412663.postman.co/workspace/Shariar-Neon's-Workspace~73e8c247-109a-439f-8d57-879f27e04ba2/collection/47606642-5355dd59-4ad2-4267-8006-f891a792c488?action=share&source=collection_link&creator=47606642"
+	},
+	"item": [
+		{
+			"name": "Cart_Page",
+			"item": [
+				{
+					"name": "Full Cart page",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/cart",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"cart"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Cart page Stylesheet",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/cart/client/0d9613cc5465da55aab1.css",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"cart",
+								"client",
+								"0d9613cc5465da55aab1.css"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Cart page JS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "demo.evershop.io/assets/frontStore/cart/client/0d9613cc5465da55aab1.js",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"cart",
+								"client",
+								"0d9613cc5465da55aab1.js"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Nike react infinity run flyknit(Purple)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/4995/7064/plv5407-Black-thumb.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"4995",
+								"7064",
+								"plv5407-Black-thumb.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Nike react infinity run flyknit(purple)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/4775/6540/plv3878-Purple-thumb.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"4775",
+								"6540",
+								"plv3878-Purple-thumb.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Nike react infinity run flyknit",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/9381/3866/plv3878-Purple-thumb.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"9381",
+								"3866",
+								"plv3878-Purple-thumb.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Nike react infinity run flyknit(Pink)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/5203/6566/plv4476-Pink-thumb.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"5203",
+								"6566",
+								"plv4476-Pink-thumb.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Nike react infinity run flyknit(Green)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/9320/5861/plv1929-Green-thumb.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"9320",
+								"5861",
+								"plv1929-Green-thumb.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Nike odyssey react flyknit 2(Blue)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/2717/4949/plv4791-Blue-thumb.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"2717",
+								"4949",
+								"plv4791-Blue-thumb.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Nike react infinity run flyknit(Green)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/8323/5059/plv1929-Green-thumb.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"8323",
+								"5059",
+								"plv1929-Green-thumb.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Nike odyssey react flyknit 2(Black)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/8751/4091/plv2235-Black-thumb.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"8751",
+								"4091",
+								"plv2235-Black-thumb.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Nike odyssey react flyknit 2(Blue)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/4114/6692/plv4791-Blue-thumb.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"4114",
+								"6692",
+								"plv4791-Blue-thumb.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Nike odyssey react flyknit 2(Pink)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/1939/9584/plv6734-Pink-thumb.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"1939",
+								"9584",
+								"plv6734-Pink-thumb.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Nike odyssey react flyknit 2(Pink)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/6389/8876/plv6734-Pink-thumb.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"6389",
+								"8876",
+								"plv6734-Pink-thumb.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Favicon.ico",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/favicon.ico",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"favicon.ico"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Nike react infinity run flyknit(Pink-L)",
+			"item": [
+				{
+					"name": "Product_Details",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/nike-react-infinity-run-flyknit-173",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"nike-react-infinity-run-flyknit-173"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_img",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/5203/6566/plv4476-Pink-single.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"5203",
+								"6566",
+								"plv4476-Pink-single.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "stylesheet",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.css",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.css"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_JS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.js",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.js"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Favicon_ico",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/favicon.ico",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"favicon.ico"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Nike react infinity run flyknit(Green-M)",
+			"item": [
+				{
+					"name": "Product_Details",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/nike-react-infinity-run-flyknit-170",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"nike-react-infinity-run-flyknit-170"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "stylesheet",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.css",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.css"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_JS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.js",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.js"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Favicon_ico",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/favicon.ico",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"favicon.ico"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Nike odyssey react flyknit 2(Black-XL)",
+			"item": [
+				{
+					"name": "Product_Details",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/women/nike-odyssey-react-flyknit-2-156",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"women",
+								"nike-odyssey-react-flyknit-2-156"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_img",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/8751/4091/plv2235-Black-single.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"8751",
+								"4091",
+								"plv2235-Black-single.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "stylesheet",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.css",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.css"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_JS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.js",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.js"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Favicon_ico",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/favicon.ico",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"favicon.ico"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Nike react infinity run flyknit(Purple-L)",
+			"item": [
+				{
+					"name": "Product_Details",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/nike-react-infinity-run-flyknit-171",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"nike-react-infinity-run-flyknit-171"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_img",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/9381/3866/plv3878-Purple-single.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"9381",
+								"3866",
+								"plv3878-Purple-single.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "stylesheet",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.css",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.css"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_JS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.js",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.js"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Favicon_ico",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/favicon.ico",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"favicon.ico"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Nike odyssey react flyknit 2(Pink-S)",
+			"item": [
+				{
+					"name": "Product_details",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/women/nike-odyssey-react-flyknit-2-159",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"women",
+								"nike-odyssey-react-flyknit-2-159"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_img",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/6389/8876/plv6734-Pink-single.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"6389",
+								"8876",
+								"plv6734-Pink-single.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "stylesheet",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.css",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.css"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_Js",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.js",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.js"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Favico_ico",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/favicon.ico",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"favicon.ico"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Nike odyssey react flyknit 2(Blue-XL)",
+			"item": [
+				{
+					"name": "Product_Details",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/women/nike-odyssey-react-flyknit-2-158",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"women",
+								"nike-odyssey-react-flyknit-2-158"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_img",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/4114/6692/plv4791-Blue-single.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"4114",
+								"6692",
+								"plv4791-Blue-single.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "stylesheet",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.css",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.css"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_JS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.js",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.js"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Favicon_ico",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "demo.evershop.io/favicon.ico",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"favicon.ico"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Nike odyssey react flyknit 2(Pink-XL)",
+			"item": [
+				{
+					"name": "Product-Details",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/women/nike-odyssey-react-flyknit-2-160",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"women",
+								"nike-odyssey-react-flyknit-2-160"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_img",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/1939/9584/plv6734-Pink-single.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"1939",
+								"9584",
+								"plv6734-Pink-single.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "stylesheet",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "demo.evershop.io\t/assets/frontStore/productView/client/0d9613cc5465da55aab1.css",
+							"host": [
+								"demo",
+								"evershop",
+								"io\t"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.css"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product__JS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.js",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.js"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "favicon_ico",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "demo.evershop.io/favicon.ico",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"favicon.ico"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Nike react infinity run flyknit(Black-L)",
+			"item": [
+				{
+					"name": "Product_details",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/nike-react-infinity-run-flyknit-175",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"nike-react-infinity-run-flyknit-175"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_img",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/4995/7064/plv5407-Black-single.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"4995",
+								"7064",
+								"plv5407-Black-single.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "stylesheet",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.css",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.css"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_JS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.js",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.js"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "favcion_ico",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "demo.evershop.io/favicon.ico",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"favicon.ico"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Nike react infinity run flyknit(Green-L)",
+			"item": [
+				{
+					"name": "Product_Details",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/nike-react-infinity-run-flyknit-169",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"nike-react-infinity-run-flyknit-169"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_img",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/9320/5861/plv1929-Green-single.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"9320",
+								"5861",
+								"plv1929-Green-single.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "stylesheet",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.css",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.css"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_JS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.js",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.js"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/favicon.ico",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"favicon.ico"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Nike odyssey react flyknit 2(Blue-S)",
+			"item": [
+				{
+					"name": "Product_Details",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/women/nike-odyssey-react-flyknit-2-157",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"women",
+								"nike-odyssey-react-flyknit-2-157"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_img",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/2717/4949/plv4791-Blue-single.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"2717",
+								"4949",
+								"plv4791-Blue-single.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "stylesheet",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.css",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.css"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_JS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.js",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.js"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "favicon_ico",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/favicon.ico",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"favicon.ico"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Nike react infinity run flyknit(Purple-M)",
+			"item": [
+				{
+					"name": "Product_Details",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/nike-react-infinity-run-flyknit-172",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"nike-react-infinity-run-flyknit-172"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_img",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demositefiles.blob.core.windows.net/images/catalog/4775/6540/plv3878-Purple-single.png",
+							"protocol": "https",
+							"host": [
+								"demositefiles",
+								"blob",
+								"core",
+								"windows",
+								"net"
+							],
+							"path": [
+								"images",
+								"catalog",
+								"4775",
+								"6540",
+								"plv3878-Purple-single.png"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "stylesheet",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.css",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.css"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Product_JS",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/assets/frontStore/productView/client/0d9613cc5465da55aab1.js",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"assets",
+								"frontStore",
+								"productView",
+								"client",
+								"0d9613cc5465da55aab1.js"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "favicon_ico",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/favicon.ico",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"favicon.ico"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Search Nike React",
+			"item": [
+				{
+					"name": "Search",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Item Details",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Add to Cart",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/api/cart/mine/items?ajax=true",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"api",
+								"cart",
+								"mine",
+								"items"
+							],
+							"query": [
+								{
+									"key": "ajax",
+									"value": "true"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "View Cart",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Modify Cart",
+					"request": {
+						"method": "PATCH",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"qty\": 1,\r\n    \"action\": \"increase\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://demo.evershop.io/api/cart/6670cb39-08c3-421e-ae1d-ee9e8f6ea13d/items/74a583d1-af19-4a7b-bc2a-b8e4550b6794",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"api",
+								"cart",
+								"6670cb39-08c3-421e-ae1d-ee9e8f6ea13d",
+								"items",
+								"74a583d1-af19-4a7b-bc2a-b8e4550b6794"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Item",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://demo.evershop.io/api/cart/a494b890-9cbe-4cd2-8275-221503956f5d/items/f3b654ff-13e8-428e-b187-84080d55c653",
+							"protocol": "https",
+							"host": [
+								"demo",
+								"evershop",
+								"io"
+							],
+							"path": [
+								"api",
+								"cart",
+								"a494b890-9cbe-4cd2-8275-221503956f5d",
+								"items",
+								"f3b654ff-13e8-428e-b187-84080d55c653"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "View Cart after remove",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
